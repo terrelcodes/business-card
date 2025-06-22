@@ -1,0 +1,8 @@
+# deps
+node_modules/
+
+.DS_Store
+.jj
+dist/
+.env.local
+.env
